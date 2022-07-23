@@ -1,13 +1,11 @@
 # odin-recipes
 
-#### motivation
+### motivation
 The purpose of this project is to demonstrate and consolidate my HTML skills
 
-#### Skills Demonstrated:
-    Writing the boilerplate for an HTML webpage 1
-    Using headers and paragraphs for text 2
-    Using relative and absolute links 3
-    Embedding images with alt text 4
-    Using ordered and Unordered Lists 5
-
-Item 1Item 2Item 3Item 4
+### Skills Demonstrated:
+    1. Writing the boilerplate for an HTML webpage 
+    2. Using headers and paragraphs for text
+    3. Using relative and absolute links
+    4. Embedding images with alt text
+    5. Using ordered and Unordered Lists
